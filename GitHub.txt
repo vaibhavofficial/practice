@@ -13,3 +13,4 @@ git config  user.name "Mona Lisa" // --local is default
 2) Use Following git commands
 a) git status
 b) git add .
+c) git commit
