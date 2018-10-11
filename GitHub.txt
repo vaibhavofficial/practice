@@ -1,0 +1,15 @@
+Here We will discuss about all github concept.
+
+After installing Git Follow these using CMD Step:
+
+1) Configure User
+
+git config --global user.name "Mona Lisa"
+
+or
+
+git config  user.name "Mona Lisa" // --local is default
+
+2) Use Following git commands
+a) git status
+b) git add .
