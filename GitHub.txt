@@ -14,3 +14,5 @@ git config  user.name "Mona Lisa" // --local is default
 a) git status
 b) git add .
 c) git commit
+d) git push https://github.com/vaibhavofficial/practice.git
+e) git log
