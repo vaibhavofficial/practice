@@ -13,6 +13,7 @@ git config  user.name "Mona Lisa" // --local is default
 2) Use Following git commands
 a) git status
 b) git add .
-c) git commit
+c) git commit -m "write comment here"
 d) git push https://github.com/vaibhavofficial/practice.git
 e) git log
+f) git commit -a -m "write comment here"
