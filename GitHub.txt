@@ -60,3 +60,26 @@ To sum it up: executing commands below is basically equivalent to fresh git clon
 git reset
 git checkout .
 git clean -fdx
+
+===================== Git Branch & Merging ==============
+
+
+===================== Git Remote ===========================
+> git clone url
+> git remote
+> git remove -v
+> graph
+> git fetch original
+> git merge origin/master
+
+==================== Git Fork ================
+To work on other repository
+>git fetch upstream
+>
+
+======================= Created Project: How to add in Github =========================
+git init
+git add -A
+git commit -m 'Added my project'
+git remote add origin git@github.com:scotch-io/my-new-project.git
+git push -u -f origin master
