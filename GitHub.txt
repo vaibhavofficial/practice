@@ -38,3 +38,25 @@ To merge branch into master branch
 To delete branch
 
 > git branch -D branch-name E.g. git branch -D practice-2
+
+This will unstage all files you might have staged with git add:
+
+> git reset
+
+This will revert all local uncommitted changes (should be executed in repo root):
+
+> git checkout .
+
+This will revert all local uncommitted changes (should be executed in repo root):
+
+> git checkout .
+
+This will remove all local untracked files, so only git tracked files remain:
+
+> git clean -fdx
+
+To sum it up: executing commands below is basically equivalent to fresh git clone from original source (but it does not re-download anything, so is much faster):
+
+git reset
+git checkout .
+git clean -fdx
