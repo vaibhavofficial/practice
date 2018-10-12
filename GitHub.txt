@@ -22,3 +22,7 @@ f) git commit -a -m "write comment here"
 g) git push https://github.com/vaibhavofficial/practice.git
 
 h) git branch branch-name e.g git branch practice-2
+
+to switch branch
+
+> git checkout practice-2
