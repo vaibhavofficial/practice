@@ -21,8 +21,16 @@ e) git log
 f) git commit -a -m "write comment here"
 g) git push https://github.com/vaibhavofficial/practice.git
 
-h) git branch branch-name e.g git branch practice-2
 
-to switch branch
+To create branch
+
+>git branch branch-name e.g git branch practice-2
+
+To Switch branch
 
 > git checkout practice-2
+> git checkout master
+
+To delete branch
+
+> git branch -D branch-name E.g. git branch -D practice-2
