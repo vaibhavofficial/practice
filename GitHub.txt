@@ -20,6 +20,8 @@ d) git push https://github.com/vaibhavofficial/practice.git
 e) git log
 f) git commit -a -m "write comment here"
 g) git push https://github.com/vaibhavofficial/practice.git
+h) git rm file-name
+i) git mv oldFileName newFilename // for rename 
 
 
 To create branch
@@ -83,3 +85,5 @@ git add -A
 git commit -m 'Added my project'
 git remote add origin git@github.com:scotch-io/my-new-project.git
 git push -u -f origin master
+
+=================================== File:  Delete =============================================
