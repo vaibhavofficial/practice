@@ -31,6 +31,10 @@ To Switch branch
 > git checkout practice-2
 > git checkout master
 
+To merge branch into master branch
+
+> git merge branch-name master E.g. git merge practice-2 master
+
 To delete branch
 
 > git branch -D branch-name E.g. git branch -D practice-2
