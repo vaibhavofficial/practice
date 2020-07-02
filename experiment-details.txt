@@ -31,3 +31,10 @@ Experiment:
             After changes commit in this branch 
             Checkout in previous branch
             In this way you can simultaneoulsy work on two branch
+
+4) Renaming branch
+
+        git branch -m <old-branch-name> <new-branch-name>
+
+        git branch -m p2 experiment
+
