@@ -20,3 +20,14 @@ Experiment:
         [ If you do any changes after this cmd then you have to again add changes ]
 
         git add .
+
+3) Working on two branch
+    Condtion: If you working on one branch but due to requirment missing you block.
+                And you have also sencond working.
+
+    Solution: 
+            Commit changes in one branch 
+            checkout changes in second branch
+            After changes commit in this branch 
+            Checkout in previous branch
+            In this way you can simultaneoulsy work on two branch
