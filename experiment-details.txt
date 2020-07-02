@@ -1,0 +1,14 @@
+
+Experiment:
+
+1) By mistake u code in master.
+    Condition: Clone branch and start doing changes in master branch
+
+    Solutin:
+        git status
+        git checkout -b p2 [ this will create branch and also checkout in that branch ]
+        git add .
+        git checkout master 
+        git status
+
+    Conclusion: master is clean now.
