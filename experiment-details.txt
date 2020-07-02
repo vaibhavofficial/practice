@@ -8,7 +8,15 @@ Experiment:
         git status
         git checkout -b p2 [ this will create branch and also checkout in that branch ]
         git add .
+        git commit -m "basic inital changes" 
         git checkout master 
-        git status
+        git status 
 
     Conclusion: master is clean now.
+
+2) 
+        git add .
+
+        [ If you do any changes after this cmd then you have to again add changes ]
+
+        git add .
