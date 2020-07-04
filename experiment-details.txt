@@ -38,3 +38,12 @@ Experiment:
 
         git branch -m p2 experiment
 
+5) Deleting branch
+
+        git branch -d <branch-name>
+
+        [ For this you have to checkout to another branch ]
+        [ If you have work on branch that you wanna delete the it gives u message to delete it forcefully try ]
+
+        git branch -D <branch-name>
+
