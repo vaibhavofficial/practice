@@ -1,0 +1,11 @@
+
+1) Merge branch code to master branch
+
+    git checkout <target-branch>
+    git merge <source-branch>
+
+    Example:
+    -------
+
+    git checkout master
+    git merge experiment
